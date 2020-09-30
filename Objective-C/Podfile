@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'LoginSample' do
+  pod 'VoxSDK'
+  pod 'VoxWebRTC', '~> 1.0.4'
+  pod 'AWSCore', '2.7.3'
+  pod 'AWSS3', '2.7.3'
+end

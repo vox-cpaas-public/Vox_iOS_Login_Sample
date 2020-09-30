@@ -1,0 +1,29 @@
+PODS:
+  - AWSCore (2.7.3)
+  - AWSS3 (2.7.3):
+    - AWSCore (= 2.7.3)
+  - VoxSDK (2.0.5)
+  - VoxWebRTC (1.0.4)
+
+DEPENDENCIES:
+  - AWSCore (= 2.7.3)
+  - AWSS3 (= 2.7.3)
+  - VoxSDK
+  - VoxWebRTC (~> 1.0.4)
+
+SPEC REPOS:
+  trunk:
+    - AWSCore
+    - AWSS3
+    - VoxSDK
+    - VoxWebRTC
+
+SPEC CHECKSUMS:
+  AWSCore: 02d9ae2b6c2aaba6077fee2b09b0a62fb9b80282
+  AWSS3: 96488eeaae6059d5252a7065b2010f846bdafe14
+  VoxSDK: 9ff0d21a6d2328ff1eeae30eb804276ae08fc6fd
+  VoxWebRTC: 82d81e82e901f3232ed2fc1e97b0c9bb0612a526
+
+PODFILE CHECKSUM: 68fe61328d0a32a87ea9281346a47f4dbad9fd43
+
+COCOAPODS: 1.9.3
